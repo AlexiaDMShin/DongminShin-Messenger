@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyMessenger</string>
+    <string name="login">로그인</string>
+    <string name="Registration">회원가입</string>
+    <string name="back">이전</string>
+    <string name="title_home">Home</string>
+    <string name="title_person">Person</string>
+    <string name="title_message">Message</string>
+    <string name="title_mypage">Mypage</string>
+    <string name="title_recruit">Recruit</string>
+    <string name="button_newmsg">새 메시지</string>
+    <string name="text_msg">메시지</string>
+    <string name="data_photo">사진</string>
+    <string name="data_name">이름</string>
+    <string name="data_msg">메시지</string>
+    <string name="data_time">시간</string>
+    <string name="data_notify">알림</string>
+    <string name="chat_close">X</string>
+    <string name="chat_name">대화자</string>
+    <string name="chat_msg">대화</string>
+    <string name="chat_time">대화시간</string>
+</resources>
